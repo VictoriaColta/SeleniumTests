@@ -1,2 +1,2 @@
-# SeleniumTests
-Learn selenium 
+# Selenium WebDriver
+Learn selenium WebDriver from test university
